@@ -7,11 +7,27 @@ each result in separate variables (sum, difference, product, quotient, reminder)
 
 - Add comments in your code to explain what each operation does. */
 
-let sum = a+b;
-let difference = 5-4;
-let product = 5*3;
-let quotient = 5/3;
 
-let reminder = 5%3;
+let a = 4;
+let b = 8;
+
+let sum = a+b;
+let difference = a-b;
+let product = a*b;
+let quotient = a/b;
+let remaider = a%b;
+
+console.log("The sum is ", sum);
+console.log("The difference is", difference);
+console.log("The product is ", product);
+console.log("The quotient is ", quotient);
+console.log("The remainder is ", remaider);
+
+
+
+
+
+
+ 
 
 
